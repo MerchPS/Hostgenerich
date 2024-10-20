@@ -1,5 +1,5 @@
-167.71.209.7 growtopia1.com
+37.114.37.72 growtopia1.com
 198.211.113.210 growtopia2.com
-167.71.209.7 www.growtopia1.com
+37.114.37.72 www.growtopia1.com
 198.211.113.210 www.growtopia2.com
-167.71.209.7 RvLnd.here
+37.114.37.72 RvLnd.here

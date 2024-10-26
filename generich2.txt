@@ -1,5 +1,5 @@
-152.42.193.129 growtopia1.com
+165.22.241.138 growtopia1.com
 66.70.205.227 growtopia2.com
-152.42.193.129 www.growtopia1.com
+165.22.241.138 www.growtopia1.com
 66.70.205.227 www.growtopia2.com
-152.42.193.129 RvLnd.here
+165.22.241.138 RvLnd.here
